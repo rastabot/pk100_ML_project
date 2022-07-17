@@ -8,3 +8,5 @@ One of the most common problems gyms and other services face is customer churn. 
 
 In order to fight churn, Model Fitness has digitized a number of its customer profiles. Our task is to analyze them and come up with a customer retention strategy.
 </div>
+
+<li>data set : gym_churn_us.csv </li>
